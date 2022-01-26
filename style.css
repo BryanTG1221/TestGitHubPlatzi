@@ -1,4 +1,16 @@
-* {
-    color: red;
+body {
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#Container {
+    width: 70%;
+    text-align: left;
+    padding: 1rem;
+    border: 2px solid;
+}
+
+.Posts {
+    text-align: left;
 }
